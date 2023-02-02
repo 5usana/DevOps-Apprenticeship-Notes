@@ -5,9 +5,11 @@ The following links include tutorials & information regarding Terraform:
 *Freecodecamp: https://www.youtube.com/watch?v=SLB_c_ayRMo
 *8 Best Pratices: https://www.youtube.com/watch?v=gxPykhPxRW0
 
-GitHUb Quickstart resource- fork a repo
+GitHub Quickstart resource- fork a repo
 https://docs.github.com/en/get-started/quickstart/fork-a-repo
 
+contributing to repo resource
+https://docs.github.com/en/get-started/quickstart/contributing-to-projects
 
 ## Contributing to this Repository
 
