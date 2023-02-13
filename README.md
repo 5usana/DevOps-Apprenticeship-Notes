@@ -51,9 +51,6 @@ https://docs.github.com/en/authentication/troubleshooting-ssh/error-permission-d
    - [merge-conflict-using-the-command-line](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/addressing-merge-conflicts/resolving-a-merge-conflict-using-the-command-line) 
 
 
-## useful terraform cheat sheet 
-- [terraform-cheat-sheet2](https://k21academy.com/terraform-iac/terraform-cheat-sheet/)
-
 ## Markdown on Github
 
 ### 1. Docs
@@ -71,7 +68,7 @@ https://docs.github.com/en/authentication/troubleshooting-ssh/error-permission-d
 
 ### 2. Docs
 - [Cheat Sheet](https://spacelift.io/blog/terraform-commands-cheat-sheet)
-
+- [terraform-cheat-sheet2](https://k21academy.com/terraform-iac/terraform-cheat-sheet/)
 
 
 ## Docker 
