@@ -1,16 +1,6 @@
 # DevOps-Apprenticeship-Notes
 
 
-Terraform useful link: https://developer.hashicorp.com/terraform/tutorials/aws-get-started/install-cli
-
-## Contributing to this Repository
-
-#### You are expected to contribute _something_ to our processes. You can do this in many different ways, such as addng documentation that helped you out, writing up a markdown sheet for this repository on a topic you are passionate about, leading a workshop, or posting discussion topics in Bitwise's #devops-apprenticeship-attachment channel.
-
-#### [Click here](https://docs.github.com/en/get-started/quickstart/contributing-to-projects) to get started!
-# DevOps-Apprenticeship-Notes
-
-
 
 * Take a look at our Bitwise Industries Standards and Practices for example markdown and best practices: https://github.com/Shift3/standards-and-practices
 
@@ -111,5 +101,37 @@ https://docs.github.com/en/authentication/troubleshooting-ssh/error-permission-d
 ## General Helpful Links 
 - [Explain Shell](https://explainshell.com/)
   
+
+#### PULL REQUESTS FOR BRAGGING RIGHTS 
+=======
+
+
+
+#### [Click here](https://github.com/octocat/Spoon-Knife) This repository is meant to provide an example for forking a repository on GitHub.
+=======
+
+Important git commands to know with example and explanation 
+# [Article](https://dzone.com/articles/top-20-git-commands-with-examples)
+# [Cheat-sheet](https://phoenixnap.com/kb/wp-content/uploads/2021/11/git-commands-cheat-sheet-by-pnap-v2.pdf)
+
+
+
+## Explain Shell Link 
+
+This site allows you to enter a command line to see help text that matches each argument.
+
+[Explain Shell](https://explainshell.com/)
+
+I hope you find this helpful! :)
+
+## Markdown on Github
+
+*I like the option of Markdown on Github and I hope you find these as helpful as I did!*
+
+1. [Basic Markdown Syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+2. [Markdown Cheats](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#videos)
+
+
+##### This is my 3rd pull request... 
 
 #### PULL REQUESTS FOR BRAGGING RIGHTS 
